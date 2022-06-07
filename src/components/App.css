@@ -1,0 +1,29 @@
+/* Styles go here */
+
+.navbar-brand {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+.mt-5 {
+    position: absolute;
+    margin-top: 5rem !important;
+    left: 240px;
+    width: 85%;
+}
+
+.selectedMenu {
+    background-color: #c5c1c1;
+}
+
+.mid-width {
+    width: 200px;
+    margin-right: 20px;
+}
+
+.css-1p5q5e5-MuiStack-root {
+    position: absolute;
+    top: 0px;
+    width: 300px;
+    left: 35%;
+}
